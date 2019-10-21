@@ -58,15 +58,12 @@ import LivenessSDK
 
 ```
 ##  Delegates
-```LivenessDelegate
-**Success**
+```####LivenessDelegate
+
  func livenessSuccess(live: Bool) {
-       
-       }
-  **Error**     
+  }
   func livenessError(live: Bool, error: NSError) {
-    
-       }
+  }
 
 ```
 
