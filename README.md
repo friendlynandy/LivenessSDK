@@ -68,7 +68,6 @@ You can set some properties for liveness.
 | **Eyes**(enableEyes)  | `Bool` | `false` | 
 | **Mouth**(enableMouth)   | `Bool` | `false` | 
 | **Yaw**(enableYaw)   | `Bool` | `false` | 
-
 | **Random Steps**(randomSteps)   | `Bool` | `false` | 
 
 
