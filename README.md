@@ -42,7 +42,7 @@ Create `Podfile` and add `pod 'LivenessSDK'`:
 use_frameworks!
 
 target 'YourApp' do
-    pod 'LivenessSDK', '~> 0.0.2'
+    pod 'LivenessSDK', '~> 0.0.3'
 end
 ```
 
