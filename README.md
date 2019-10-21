@@ -9,6 +9,19 @@
 LivenessSDK for iOS
 
 
+* [Features](#-features)
+* [Installation](#-installation)
+  * [Cocoapods](#cocoaPods-1.0.0-or-later)
+* [How to use](#-how-to-use)
+* [Delegates](#-delegates)
+  *[LivenessDelegate](#-livenessdelegate)
+* [Customization](#-customization)
+  * [Steps](#-steps)
+  * [Thersholds](#-thresholds)  
+* [Documentation](#-documentation)
+* [Supported OS & SDK Versions](#-supported-os--sdk-versions)
+* [License](#-license)
+
 ## 🌟 Features
 - Supports iOS 12.0+
 - Supports binary
@@ -46,7 +59,7 @@ Swift:
 import LivenessSDK
 ```
 
-## 🐒 Example
+## 🐒 How to use
 ```swift
 import LivenessSDK
 
@@ -64,16 +77,17 @@ import LivenessSDK
 
  func livenessSuccess(live: Bool) {
   }
+  
  func livenessError(live: Bool, error: NSError) {
   }
 
 ```
 
-## 🎛 Customize
+## 🎛 Customization
 
 You can set some properties for liveness.
 
-### Steps
+#### Steps
 | Steps | Value | Default | 
 | ------- | ------- |------- | 
 | **Eyes**(enableEyes)  | `Bool` | `false` | 
@@ -82,7 +96,7 @@ You can set some properties for liveness.
 | **Random Steps**(randomSteps)   | `Bool` | `true` | 
 
 
-### Thresholds
+#### Thresholds
 | Property | Values | Default | 
 | ------- | ------- |------- | 
 | **Eyes closed Threshold**(eyeThreshold)  | `0.05...0.2` | `0.1` | 
@@ -92,10 +106,15 @@ You can set some properties for liveness.
 
 
 
+### 📋 Supported OS & SDK Versions
+* iOS 12.0+
+* iPadOS 13.0+
+* Swift 5
 
-# [Docs](https://nuclearace.github.io/LivenessSDK/index.html)
+### 📚 Documentation 
+Coming soon...😅
 
 - [LivenessSDK](https://nuclearace.github.io/LivenessSDK/Classes/LivenessSDK.html)
 
-## License
+## 👮🏻 License
 MIT
