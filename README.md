@@ -1,5 +1,5 @@
 
-[![Build Status]()](https://img.shields.io/cocoapods/p/LivenessSDK)
+[![Build Status](https://img.shields.io/cocoapods/p/LivenessSDK)](https://img.shields.io/cocoapods/p/LivenessSDK)
 
 # LivenessSDK
 LivenessSDK for iOS
