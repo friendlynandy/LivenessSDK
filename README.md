@@ -57,6 +57,18 @@ import LivenessSDK
   liveness.startLiveness()
 
 ```
+##  Delegates
+```LivenessDelegate
+**Success**
+ func livenessSuccess(live: Bool) {
+       
+       }
+  **Error**     
+  func livenessError(live: Bool, error: NSError) {
+    
+       }
+
+```
 
 ## 🎛 Customize
 
