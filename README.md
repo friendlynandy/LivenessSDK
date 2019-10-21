@@ -11,10 +11,10 @@ LivenessSDK for iOS
 
 * [Features](#-features)
 * [Installation](#-installation)
-  * [Cocoapods](#cocoaPods-1.0.0-or-later)
+   * [Cocoapods](#cocoaPods-1.0.0-or-later)
 * [How to use](#-how-to-use)
 * [Delegates](#-delegates)
-  *[LivenessDelegate](#-livenessdelegate)
+   *[LivenessDelegate](#-livenessdelegate)
 * [Customization](#-customization)
   * [Steps](#-steps)
   * [Thersholds](#-thresholds)  
