@@ -58,11 +58,19 @@ import LivenessSDK
 
 ```
 
-##### 🎛 Customize
+## 🎛 Customize
 
 You can set some properties for liveness.
 
+### Steps
+| Steps | Values | Default | 
+| ------- | ------- |------- | 
+| **Eyes **  | `Bool` | `false` | 
+| **Mouth **   | `Bool` | `false` | 
+| **Yaw **   | `Bool` | `false` | 
 
+
+### Thresholds
 | Property | Values | Default | 
 | ------- | ------- |------- | 
 | **Eyes closed Threshold**  | `0.05...0.2` | `0.1` | 
