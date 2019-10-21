@@ -17,7 +17,6 @@ import LivenessSDK
 ```
 
 
-```
 
 ## Features
 - Supports iOS 12.0+
