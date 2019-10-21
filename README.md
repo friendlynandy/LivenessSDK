@@ -14,7 +14,7 @@ LivenessSDK for iOS
   * [Cocoapods](#using-cocoapods)
 * [How to use](#-how-to-use)
 * [Delegates](#-delegates)
-   *[LivenessDelegate](#-livenessdelegate)
+   * [LivenessDelegate](#-livenessdelegate)
 * [Customization](#-customization)
   * [Steps](#-steps)
   * [Thersholds](#-thresholds)  
