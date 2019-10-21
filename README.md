@@ -8,27 +8,14 @@
 # LivenessSDK
 LivenessSDK for iOS
 
-## Example
-```swift
-import LivenessSDK
 
-  var liveness = Liveness()
-
-  liveness.delegate = self
- 
-  liveness.startLiveness()
-
-```
-
-
-
-## Features
+## 🌟 Features
 - Supports iOS 12.0+
 - Supports binary
 - Supports iPhone and iPad
 
 
-## Installation
+## 📲 Installation
 Requires Swift 4/5 and Xcode 10.x
 
 ### CocoaPods 1.0.0 or later
@@ -58,6 +45,29 @@ Swift:
 ```swift
 import LivenessSDK
 ```
+
+## 🐒 Example
+```swift
+import LivenessSDK
+
+  var liveness = Liveness()
+
+  liveness.delegate = self
+ 
+  liveness.startLiveness()
+
+```
+
+##### 🎛 Customize
+
+You can set some properties for liveness.
+
+
+| Property | Values | Default | 
+| ------- | ------- |------- | 
+| **Eyes closed Threshold**  | `0.05...0.2` | `0.1` | 
+| **Mouth opened Threshold**   | `0.1...0.6` | `0.35` | 
+
 
 
 
