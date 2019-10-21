@@ -63,11 +63,11 @@ import LivenessSDK
 You can set some properties for liveness.
 
 ### Steps
-| Steps | Values | Default | 
+| Steps | Value | Default | 
 | ------- | ------- |------- | 
-| **Eyes **  | `Bool` | `false` | 
-| **Mouth **   | `Bool` | `false` | 
-| **Yaw **   | `Bool` | `false` | 
+| **Eyes**  | `Bool` | `false` | 
+| **Mouth**   | `Bool` | `false` | 
+| **Yaw**   | `Bool` | `false` | 
 
 
 ### Thresholds
