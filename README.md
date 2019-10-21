@@ -13,8 +13,8 @@ LivenessSDK for iOS
 * [Installation](#-installation)
   * [Cocoapods](#using-cocoapods)
 * [How to use](#-how-to-use)
-* [Delegates](#-delegates)
-   * [LivenessDelegate](#-livenessdelegate)
+* [Delegates](#-Delegates)
+   * [LivenessDelegate](#-LivenessDelegate)
 * [Customization](#-customization)
   * [Steps](#-steps)
   * [Thersholds](#-thresholds)  
@@ -70,7 +70,8 @@ import LivenessSDK
   liveness.startLiveness()
 
 ```
-##  Delegates
+## 🏄 Delegates
+
 #### LivenessDelegate
 
 ```swift
