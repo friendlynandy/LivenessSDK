@@ -11,7 +11,7 @@ LivenessSDK for iOS
 
 * [Features](#-features)
 * [Installation](#-installation)
-   * [Cocoapods](#cocoaPods-1.0.0-or-later)
+  * [Cocoapods](#using-cocoapods)
 * [How to use](#-how-to-use)
 * [Delegates](#-delegates)
    *[LivenessDelegate](#-livenessdelegate)
@@ -31,7 +31,7 @@ LivenessSDK for iOS
 ## 📲 Installation
 Requires Swift 4/5 and Xcode 10.x
 
-### CocoaPods 1.0.0 or later
+#### Using [CocoaPods](https://cocoapods.org)
 
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
