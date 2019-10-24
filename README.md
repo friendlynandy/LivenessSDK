@@ -22,7 +22,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
    * [LivenessDelegate](#livenessdelegate)
 * [Customization](#-customization)
   * [Steps](#steps)
-  * [Thersholds](#thresholds)  
+  * [Thresholds](#thresholds)  
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
 * [Documentation](#-documentation)
 * [License](#-license)
