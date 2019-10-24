@@ -104,11 +104,11 @@ You can set some properties for liveness.
 
 
 #### Thresholds
-| Property | Values | Default | 
-| ------- | ------- |------- | 
-| **Eyes closed Threshold**(eyeThreshold)  | `0.05...0.2` | `0.1` | 
-| **Mouth opened Threshold**(mouthThreshold)   | `0.1...0.6` | `0.35` | 
-| **Each step timer**(timerSeconds)   | `Seconds` | `5 seconds` | 
+| Property | Min. Value | Max. Value | Default | 
+| ------- | ------- | ------- |------- | 
+| **Eyes closed Threshold**(eyeThreshold)  | `0.05` | `0.2` | `0.1` | 
+| **Mouth opened Threshold**(mouthThreshold)   | `0.1` | `0.6` | `0.35` | 
+| **Each step timer**(timerSeconds)   | `Seconds`| `Seconds` | `5 seconds` | 
 
 
 ## 📋 Supported OS & SDK Versions
