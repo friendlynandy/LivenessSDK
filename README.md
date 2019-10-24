@@ -114,12 +114,12 @@ The Following properties for liveness can be customized:
 
 
 
-### 📋 Supported OS & SDK Versions
+## 📋 Supported OS & SDK Versions
 * iOS 12.0+
 * iPadOS 13.0+
 * Swift 5
 
-### 📚 Documentation 
+## 📚 Documentation 
 Coming soon...😅
 
 - [LivenessSDK](https://nuclearace.github.io/LivenessSDK/Classes/LivenessSDK.html)
