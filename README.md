@@ -124,4 +124,4 @@ Coming soon...😅
 - [LivenessSDK](https://nuclearace.github.io/LivenessSDK/Classes/LivenessSDK.html)
 
 ## 👮🏻 License
-gpl-3.0
+EULA
