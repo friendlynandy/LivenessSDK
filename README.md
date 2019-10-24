@@ -7,7 +7,7 @@
 
 # LivenessSDK
 ## 📜 Introduction
-Brought to you by FaceX.io, this Liveness SDK for iOS can now be used to integrate gesture-based liveness Detection into your applications. 
+Brought to you by [FaceX.io](https://facex.io/), this Liveness SDK for iOS can now be used to integrate gesture-based liveness Detection into your applications. 
 
 ## 🔧Functioning
 This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analysised to verify and identify live visitors.  
@@ -35,14 +35,12 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 ##  ❗️ Prerequisite 
 - Requires Swift 4/5 and Xcode 10.x
 
-## 📲 Installation
-
-#### Using [CocoaPods](https://cocoapods.org)
+## 📲 Installation using [CocoaPods](https://cocoapods.org)
 
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 
-1. Create `Podfile` and add `pod 'LivenessSDK'`:
+#### 1. Create `Podfile` and add `pod 'LivenessSDK'`:
 
 ```ruby
 use_frameworks!
@@ -52,13 +50,13 @@ target 'YourApp' do
 end
 ```
 
-2. Install pods:
+#### 2. Install pods:
 
 ```
 $ pod install
 ```
 
-3. Import the module:
+#### 3. Import the module:
 
 Swift:
 ```swift
