@@ -125,4 +125,4 @@ Coming soon...😅
 - [LivenessSDK](https://nuclearace.github.io/LivenessSDK/Classes/LivenessSDK.html)
 
 ## 👮🏻 License
-EULA
+- [EULA](https://github.com/friendlynandy/LivenessSDK/blob/master/EULA_FaceX.pdf)
