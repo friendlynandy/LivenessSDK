@@ -14,6 +14,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 
 ## Index
 * [Features](#-features)
+* [Prerequisite](#-Prerequisite)
 * [Installation](#-installation)
   * [Cocoapods](#using-cocoapods)
 * [How to use](#-how-to-use)
@@ -31,7 +32,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 - Supports binary
 - Supports iPhone and iPad
 
-## Software Prerequisite 
+## Prerequisite 
 - Requires Swift 4/5 and Xcode 10.x
 
 ## 📲 Installation
