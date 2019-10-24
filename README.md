@@ -7,24 +7,24 @@
 
 # LivenessSDK
 
-## Introduction
+## 📜 Introduction
 Brought to you by FaceX.io, this Liveness SDK for iOS can now be used to integrate gesture-based liveness Detection into your applications. 
 
-## Functioning
+## 🔧 Functioning
 This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analysised to verify and identify live visitors.  
 
-## Index
+## 📑 Index
 * [Features](#-features)
-* [Installation](#-installation)
-  * [Cocoapods](#using-cocoapods)
+* [Software Prerequisite](#software-prerequisite)
+* [Installation Using CocoaPods](#-installation-using-cocoapods)
 * [How to use](#-how-to-use)
-* [Delegates](#-Delegates)
-   * [LivenessDelegate](#-LivenessDelegate)
+* [Delegates](#-delegates)
+   * [LivenessDelegate](#livenessdelegate)
 * [Customization](#-customization)
-  * [Steps](#-Steps)
-  * [Thersholds](#-Thresholds)  
-* [Documentation](#-documentation)
+  * [Steps](#steps)
+  * [Thersholds](#thresholds)  
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
+* [Documentation](#-documentation)
 * [License](#-license)
 
 ## 🌟 Features
@@ -33,7 +33,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 - Supports iPhone and iPad
 
 
-## Software Prerequisite 
+## 🔍 Software Prerequisite 
 - Requires Swift 4/5 and Xcode 10.x
 
 ## 📲 Installation Using [CocoaPods](https://cocoapods.org)
