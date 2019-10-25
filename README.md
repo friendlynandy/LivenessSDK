@@ -16,7 +16,7 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 ## 📑 Index
 * [Features](#-features)
    * [Utility](#utility)
-   * [Liveness Detection by Motion](#utility)   
+   * [Liveness Detection by Motion](#liveness-detection-by-motion)   
 * [Supported Devices](#️-supported-devices)
 * [Software Prerequisite](#-software-prerequisite)
 * [Installation Using CocoaPods](#-installation-using-cocoapods)
