@@ -62,7 +62,7 @@ Users will be prompted by the screen to perform facial gestures and the response
 use_frameworks!
 
 target 'YourApp' do
-    pod 'LivenessSDK', '~> 0.0.3'
+    pod 'LivenessSDK'
 end
 ```
 
