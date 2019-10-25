@@ -15,6 +15,8 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 
 ## 📑 Index
 * [Features](#-features)
+   * [Utility](#utility)
+   * [Liveness Detection by Motion](#utility)   
 * [Supported Devices](#️-supported-devices)
 * [Software Prerequisite](#-software-prerequisite)
 * [Installation Using CocoaPods](#-installation-using-cocoapods)
@@ -32,6 +34,13 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
 
 #### Utility
 Ensure Secure use of facial recognition based applications by determining liveness of your users
+
+#### Liveness Detection by Motion
+
+With this iOSLiveness SDK, you can determine liveness of your users by detection of motion.
+
+Users will be prompted by the screen to perform facial gestures and the response by the user is analyzed in a live streaming video.
+
 
 ## ✔️ Supported Devices
 - Supports iOS 12.0+
