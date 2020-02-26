@@ -89,6 +89,10 @@ import LivenessSDK
  
   liveness.startLiveness()
 
+// To stop and exit Liveness View
+
+  liveness.stopLiveness()
+
 ```
 
 ## 🏄 Delegates
