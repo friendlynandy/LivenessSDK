@@ -14,6 +14,7 @@ Brought to you by FaceX.io, this iOSLiveness SDK can now be used to integrate ge
 This LivenessSDK is Liveness based on Motion detection. Users will be directed by the screen to perform facial gestures and actions which will be analysised to verify and identify live visitors.  
 
 ## 📑 Index
+* [Documentation](#-documentation)
 * [Features](#-features)
    * [Utility](#utility)
    * [Liveness Detection by Motion](#liveness-detection-by-motion)   
@@ -27,8 +28,18 @@ This LivenessSDK is Liveness based on Motion detection. Users will be directed b
   * [Steps](#steps)
   * [Thresholds](#thresholds)  
 * [Supported OS & SDK Versions](#-supported-os--sdk-versions)
-* [Documentation](#-documentation)
 * [License](#-license)
+
+## 📚 Documentation 
+
+- Step 1: Sign up for a developer account through [FaceX User Portal](https://search.facex.io/#/register)
+- Step 2: Navigate to Plans & Payments Tab & Select  [Plans](https://search.facex.io/#/home/payments/plans)
+- Step 3: Scroll Down to Mobile SDK Section and select **Active Liveness**
+- Step 4: Select the number of licenses you require, add the required details and Purchase your plan
+- Step 5: Navigate to Mobile SDK Tab & Select [License History](https://search.facex.io/#/home/mobilesdk/license)
+- Step 5: Download the plist file for iOS SDK from the Offline License Section
+- Step 6: Download the Online Active Livenesss iOS SDK from this Github [LivenessSDKOnline](https://friendlynandy.github.io/LivenessSDK/)
+- Step 7: Add the plist file from the portal to your project.
 
 ## 🌟 Features
 
@@ -134,11 +145,6 @@ You can set some properties for liveness.
 * iOS 12.0+
 * iPadOS 13.0+
 * Swift 5
-
-## 📚 Documentation 
-😅
-
-- [LivenessSDK](https://friendlynandy.github.io/LivenessSDK/)
 
 ## 👮🏻 License
 
