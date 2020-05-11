@@ -138,7 +138,7 @@ You can set some properties for liveness.
 ## 📚 Documentation 
 Coming soon...😅
 
-- [LivenessSDK](https://nuclearace.github.io/LivenessSDK/Classes/LivenessSDK.html)
+- [LivenessSDK](https://friendlynandy.github.io/LivenessSDK/)
 
 ## 👮🏻 License
 
