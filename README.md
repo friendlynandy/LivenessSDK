@@ -136,7 +136,7 @@ You can set some properties for liveness.
 * Swift 5
 
 ## 📚 Documentation 
-Coming soon...😅
+😅
 
 - [LivenessSDK](https://friendlynandy.github.io/LivenessSDK/)
 
