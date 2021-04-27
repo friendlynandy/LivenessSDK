@@ -91,13 +91,20 @@ import LivenessSDK
 ```
 
 ## 🐒 How to use
+
+### Swift
+
 ```swift
 import LivenessSDK
+```
+```swift
 
   var liveness = Liveness()
 
   liveness.delegate = self
  
+  liveness.enableEyes = true;
+  
   liveness.startLiveness()
 
 // To stop and exit Liveness View
@@ -106,10 +113,31 @@ import LivenessSDK
 
 ```
 
+### Objective - C
+
+```objective-c
+@import LivenessSDK;
+```
+```objective-c
+
+  Liveness * liveness = [Liveness new];
+  
+  liveness.delegate = self;
+  
+  liveness.enableEyes = true;
+  
+  [liveness startLiveness];
+  
+// To stop and exit Liveness View
+
+  [liveness stopLiveness];
+```
+
+
 ## 🏄 Delegates
 
 #### LivenessDelegate
-
+### Swift
 ```swift
 
  func livenessSuccess(live: Bool) {
@@ -117,6 +145,17 @@ import LivenessSDK
   
  func livenessError(live: Bool, error: NSError) {
   }
+
+```
+### Objective - C
+
+```objective-c
+
+- (void)livenessErrorWithLive:(BOOL)live error:(NSError * _Nonnull)error{
+}
+
+- (void)livenessSuccessWithLive:(BOOL)live face:(UIImage * _Nonnull)face {
+}
 
 ```
 
