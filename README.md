@@ -89,6 +89,10 @@ Swift:
 ```swift
 import LivenessSDK
 ```
+Objective - C:
+```objective-c
+@import LivenessSDK;
+```
 
 ## 🐒 How to use
 
